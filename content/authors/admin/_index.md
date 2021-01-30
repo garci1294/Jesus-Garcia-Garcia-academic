@@ -68,8 +68,14 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a computational biology graduate student at the University of Minnesota, and I am very fortunate to be co-advised by Dr. Andrew Venteicher and Dr. Jinhua Wang. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In lab, I exercise high-performance computing using LINUX heterogeneous clusters, focusing on implementing and designing computational biology tools to analyze different genomic technologies results with the primary goal of classifying vulnerabilities in brain tumorigenesis. 
+
+Quick background about myself, I am originally from Distrito Federal, Mexico, and came to the United States at the age of 7. Currently, I am a DACA recipient trying to fulfill my dreams of becoming a doctor within the computational biology field. 
+
+I have a deep interest and motivation in studying brain tumors at the genomic level. The brain is complex, and cancer makes it more complicated to understand. I see it as trying to map all of stars in the universe. I am optimistic that involving computational techniques will help us map the brain. 
+
+Please feel free to contact me with any questions.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
