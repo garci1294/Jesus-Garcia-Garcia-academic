@@ -26,7 +26,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MSc in Bioinformatics and Computational Biology
+  - course: MSc in Computational Biology
     institution: University of Minnesota
     year: 2021
   - course: BSc in Biology
