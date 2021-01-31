@@ -68,14 +68,12 @@ email: ""
 highlight_name: false
 ---
 
-I am a computational biology graduate student at the University of Minnesota, and I am very fortunate to be co-advised by Dr. Andrew Venteicher and Dr. Jinhua Wang. 
+I am a computational biology graduate student at the University of Minnesota, and I am very fortunate to be co-advised by Dr. Andrew Venteicher and Dr. Jinhua Wang.
 
-In lab, I exercise high-performance computing using LINUX heterogeneous clusters, focusing on implementing and designing computational biology tools to analyze different genomic technologies results with the primary goal of classifying vulnerabilities in brain tumorigenesis. 
+I have a deep interest in studying brain tumors at the genomic level. The brain is a very complex system, and cancer adds to its complexity. I am optimistic that involving computational techniques will help us better understand the brain.
 
-Quick background about myself, I am originally from Distrito Federal, Mexico, and came to the United States at the age of 7. Currently, I am a DACA recipient trying to fulfill my dreams of becoming a doctor within the computational biology field. 
+I exercise high-performance computing using LINUX heterogeneous clusters; design and implement computational biology tools to analyze different genomic technologies' results with the primary goal of classifying vulnerabilities in brain tumorigenesis.
 
-I have a deep interest and motivation in studying brain tumors at the genomic level. The brain is complex, and cancer makes it more complicated to understand. I see it as trying to map all of stars in the universe. I am optimistic that involving computational techniques will help us map the brain. 
-
-Please feel free to contact me with any questions.
+Quick background about myself, I am originally from Distrito Federal, Mexico, and came to the United States at the age of 7. Currently, I am a DACA recipient working towards my dreams of becoming a doctor in the computational biology field.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
