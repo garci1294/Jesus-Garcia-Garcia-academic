@@ -1,7 +1,14 @@
+__
 widget: accomplishments
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
+
+# Order that this section appears on the page.
+weight: 60
+
+title: Accomplishments
+subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -38,3 +45,4 @@ item:
     date_start: '2017-07-01'
     date_end: '2017-12-21'
     description: ''
+---
