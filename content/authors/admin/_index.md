@@ -6,7 +6,7 @@ title: Jesus Garcia-Garcia
 superuser: true
 
 # Role/position/tagline
-role: Grad Student
+role: Graduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
