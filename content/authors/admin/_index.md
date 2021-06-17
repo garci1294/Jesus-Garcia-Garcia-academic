@@ -6,7 +6,7 @@ title: Jesus Garcia-Garcia
 superuser: true
 
 # Role/position/tagline
-role: Graduate Student
+role: Ph.D. Graduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://venteicherlab.umn.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include exercising high-performance computing using LINUX heterogeneous clusters to examine genomics of brain tumors.
+bio: My research interests include exercising high-performance computing using LINUX heterogeneous clusters to examine the genomics of brain tumors.
 
 # Interests to show in About widget
 interests:
@@ -62,17 +62,19 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "garci624@umn.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-I am a computational biology graduate student at the University of Minnesota, and I am very fortunate to be co-advised by Dr. Andrew Venteicher and Dr. Jinhua Wang.
+¡Hola! Bienvenid@s a mi pagina.
+
+My name is Jesus and I am a computational biology Ph.D. graduate student at the University of Minnesota. I am very fortunate to be co-advised by Dr. Andrew Venteicher and Dr. Jinhua Wang.
 
 I have a deep interest in studying brain tumors at the genomic level. The brain is a very complex system, and cancer adds to its complexity. I am optimistic that involving computational techniques will help us better understand the brain.
 
-I exercise high-performance computing using LINUX heterogeneous clusters; design and implement computational biology tools to analyze different genomic technologies' results with the primary goal of classifying vulnerabilities in brain tumorigenesis.
+In lab I exercise high-performance computing using LINUX heterogeneous clusters; design and implement computational biology tools to analyze different genomic technologies' results with the primary goal of classifying vulnerabilities in brain tumorigenesis.
 
 Quick background about myself, I am originally from Distrito Federal, Mexico, and came to the United States at the age of 7. Currently, I am a DACA recipient working towards my dreams of becoming a doctor in the computational biology field.
 
