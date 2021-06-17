@@ -13,11 +13,11 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2021-02-01"
+date: "2018-12-01"
 doi: "https://doi.org/10.1182/blood-2018-99-113201"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-02-01"
+publishDate: "2018-12-01"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
