@@ -37,6 +37,8 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+<a class="twitter-timeline" href="https://twitter.com/JesusDosGarcia?ref_src=twsrc%5Etfw">Tweets by JesusDosGarcia</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 social:
 - icon: envelope
   icon_pack: fas
