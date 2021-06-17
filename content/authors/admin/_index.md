@@ -78,4 +78,4 @@ In lab I exercise high-performance computing using LINUX heterogeneous clusters;
 
 Quick background about myself, I am originally from Distrito Federal, Mexico, and came to the United States at the age of 7. Currently, I am a DACA recipient working towards my dreams of becoming a doctor in the computational biology field.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/GarciaGarciaCV.pdf" "newtab" >}}resumé{{< /staticref >}}.
