@@ -1,6 +1,6 @@
 ---
 # Replace <USERNAME> and <WIDGET-NAME> with your GitHub username and widget name, respectively.
-widget: 'github.garci1294.twitter-feed'
+widget: 'github.garci1294.twitter-feed.html'
 
 # This file represents a page section.
 headless: true
