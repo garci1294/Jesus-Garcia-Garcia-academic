@@ -72,7 +72,7 @@ highlight_name: false
 
 My name is Jesus and I am a computational biology Ph.D. graduate student at the University of Minnesota. I am very fortunate to be co-advised by Dr. Andrew Venteicher and Dr. Jinhua Wang.
 
-I have a deep interest in studying brain tumors at the genomic level. The brain is a very complex system, and cancer adds to its complexity. I am optimistic that involving computational techniques will help us better understand the brain.
+I have a deep interest in studying brain tumors at the genomic level. The brain is a very complex system, and cancer adds to its complexity. Genomic computational algorithms are becoming more dynamic and I am optimistic that involving computational techniques will help us better understand the brain.
 
 In lab I exercise high-performance computing using LINUX heterogeneous clusters; design and implement computational biology tools to analyze different genomic technologies' results with the primary goal of classifying vulnerabilities in brain tumorigenesis.
 
