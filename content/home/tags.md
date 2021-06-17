@@ -13,6 +13,8 @@ title: Popular Topics
 subtitle: ''
 
 content:
+
+  <a class="twitter-timeline" href="https://twitter.com/JesusDosGarcia?ref_src=twsrc%5Etfw">Tweets by JesusDosGarcia</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
   taxonomy: tags
   # Choose how many tags you would like to display (0 = all tags)
