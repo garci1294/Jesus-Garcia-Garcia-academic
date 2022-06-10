@@ -22,19 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Software Packaging Engineer
-    company: University of Minnesota, Office of Information Technology
-    company_url: 'https://it.umn.edu/'
+  - title: Linux Systems DevOps Engineer
+    company: University of Minnesota, Minnesota Supercomputing Institute
+    company_url: 'https://www.msi.umn.edu/staff/garci624'
     location: Minneapolis, MN
-    date_start: '2021-02-01'
+    date_start: '2022-03-01'
     date_end: ''
     description: |2-
         Responsibilities include:
 
-        * Hands-on development, standardization, and management of software deployments packaging
-        * Research and troubleshoot installation package defects and make necessary coding adjustments
-        * Automate the installation and packaging configuration
-        * Build and mantain various MacOS, Windows and Linux virtual machines
+        * Manage and automate critical Linux, and other related, infrastructure and services.
+        * Design, test, document, and implement new systems and services.
+        * Write and maintain system automation (Puppet) and associated CI/CD testing code.
+        * Linux systems configuration language (e.g. Puppet, SALT, Ancible, Chef).
 
   - title: Graduate Researcher
     company: University of Minnesota, Bioinformatics and Computational Biology
@@ -46,31 +46,34 @@ experience:
         Responsibilities include:
 
         Primary Advisor: Dr. Andrew Venteicher
-        Co-Adviser: Jinhua Wang
         
-        * Exercise high-performance computing using LINUX heterogeneous clusters to examine genomics of brain tumors.
-        * Design, implement and test/debug computational tools to analyze genomic data
-        * Modify existing tools to improve system performance and resource consumption
-        
-  - title: Desktop Support Technician
+        * Exercise high-performance computing with Linux heterogeneous clusters to examine genomic data.
+        * Install, configure, maintain and document software packages required for optimal pipeline performance.
+        * Modify existing tools to improve system performance and resource consumption.
+        * Experience in AWS, which include data backup, policy implementation and support cloud-base Linux infrastructure.
+        * Build, configure and troubleshoot multiple Conda environments, Docker and Singularity container images for version stability.
+
+  - title: Software Packaging Engineer
     company: University of Minnesota, Office of Information Technology
     company_url: 'https://it.umn.edu/'
     location: Minneapolis, MN
-    date_start: '2017-07-01'
-    date_end: ''
+    date_start: '2016-08-01'
+    date_end: '2022-03-01'
     description: |2-
         Responsibilities include:
-        
-        * Provided high-level technical support to all staff, faculty, students and other UMN members
-        * Provided escalated support for classroom management technology and video collaboration tools
-        * Mac OS project team: Configured, upgraded and maintained Mac OS X devices; diagnosed and troubleshooted hardware and software issues
+
+        * Build, maintain and decommission Windows virtual machines using VMware and Mac virtual machines using MacStadium Orka command line tool to test deployments in different OS versions.
+        * Troubleshoot and resolve system and software issues using online resources, vendor documentation, and vendor technical support.
+        * Write auto-package recipes to identify the latest software versions for automatic packaging and store them in version control, Git.
+        * Add processor to deployment scripts to track installation progress, error reporting, enforce system security standards and prevent unauthorized usage.
+        * Develop internal code documentation for software deployments and internal support documentation for front line support teams, and new employee training.
 
   - title: Research Assistant
     company: University of Minnesota, Hematology, Oncology and Transplantation
     company_url: 'https://med.umn.edu/dom/divisions/hematology-oncology-and-transplantation'
     location: Minneapolis, MN
     date_start: '2017-07-01'
-    date_end: ''
+    date_end: '2021-02-01'
     description: |2-
         Responsibilities include:
         
